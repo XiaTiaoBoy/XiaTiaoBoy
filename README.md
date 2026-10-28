@@ -7,7 +7,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=XiaTiaoBoy.XiaTiaoBoy)
 ![followers](https://img.shields.io/github/followers/XiaTiaoBoy?style=flat&label=Followers&color=blue)
-![stars](https://img.shields.io/github/stars/虾条boy/XiaTiaoBoy?style=flat&label=Stars&color=yellow)
+![stars](https://img.shields.io/github/stars/XiaTiaoBoy/XiaTiaoBoy?style=flat&label=Stars&color=yellow)
 
 </div>
 
