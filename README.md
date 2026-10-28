@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hey, It's 虾条boy 👋
+### Hey, It's 虾条Boy 👋
 
 ![Snake animation](https://raw.githubusercontent.com/XiaTiaoBoy/XiaTiaoBoy/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake animation](https://raw.githubusercontent.com/XiaTiaoBoy/XiaTiaoBoy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
