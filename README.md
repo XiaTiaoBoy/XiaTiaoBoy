@@ -2,12 +2,12 @@
   
 ### Hey, It's 虾条boy 👋
 
-![Snake animation](https://raw.githubusercontent.com/虾条boy/虾条boy/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake animation](https://raw.githubusercontent.com/虾条boy/虾条boy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/XiaTiaoBoy/XiaTiaoBoy/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://raw.githubusercontent.com/XiaTiaoBoy/XiaTiaoBoy/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=虾条boy.虾条boy)
-![followers](https://img.shields.io/github/followers/虾条boy?style=flat&label=Followers&color=blue)
-![stars](https://img.shields.io/github/stars/虾条boy/虾条boy?style=flat&label=Stars&color=yellow)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=XiaTiaoBoy.XiaTiaoBoy)
+![followers](https://img.shields.io/github/followers/XiaTiaoBoy?style=flat&label=Followers&color=blue)
+![stars](https://img.shields.io/github/stars/虾条boy/XiaTiaoBoy?style=flat&label=Stars&color=yellow)
 
 </div>
 
